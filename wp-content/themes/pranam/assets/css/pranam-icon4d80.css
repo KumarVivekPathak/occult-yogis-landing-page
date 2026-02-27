@@ -1,0 +1,603 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("../fonts/flaticon_mycollection9292.woff2?49292b0f38f130092f00ca495d688a67") format("woff2"),
+url("../fonts/flaticon_mycollection9292.woff?49292b0f38f130092f00ca495d688a67") format("woff"),
+url("../fonts/flaticon_mycollection9292.eot?49292b0f38f130092f00ca495d688a67#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_mycollection9292.ttf?49292b0f38f130092f00ca495d688a67") format("truetype"),
+url("../fonts/flaticon_mycollection9292.html?49292b0f38f130092f00ca495d688a67#flaticon_mycollection") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: inherit;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: -0.125em;
+}
+
+.flaticon-play-button-arrowhead:before {
+    content: "\f101";
+}
+.flaticon-check-mark:before {
+    content: "\f102";
+}
+.flaticon-left-quote:before {
+    content: "\f103";
+}
+.flaticon-namaste:before {
+    content: "\f104";
+}
+.flaticon-krishna:before {
+    content: "\f105";
+}
+.flaticon-call:before {
+    content: "\f106";
+}
+.flaticon-temple:before {
+    content: "\f107";
+}
+.flaticon-loupe:before {
+    content: "\f108";
+}
+.flaticon-standing-bell:before {
+    content: "\f109";
+}
+.flaticon-pills:before {
+    content: "\f10a";
+}
+.flaticon-healing:before {
+    content: "\f10b";
+}
+.flaticon-reiki:before {
+    content: "\f10c";
+}
+.flaticon-ganesha:before {
+    content: "\f10d";
+}
+.flaticon-zen:before {
+    content: "\f10e";
+}
+.flaticon-comment:before {
+    content: "\f10f";
+}
+.flaticon-massage:before {
+    content: "\f110";
+}
+.flaticon-diwali:before {
+    content: "\f111";
+}
+.flaticon-phone-call:before {
+    content: "\f112";
+}
+.flaticon-home:before {
+    content: "\f113";
+}
+.flaticon-pills-1:before {
+    content: "\f114";
+}
+.flaticon-clock:before {
+    content: "\f115";
+}
+.flaticon-paper-plane:before {
+    content: "\f116";
+}
+.flaticon-swastika:before {
+    content: "\f117";
+}
+.flaticon-yoga:before {
+    content: "\f118";
+}
+.flaticon-yoga-ball:before {
+    content: "\f119";
+}
+.flaticon-sahasrara:before {
+    content: "\f11a";
+}
+.flaticon-map-location:before {
+    content: "\f11b";
+}
+.flaticon-body-massage:before {
+    content: "\f11c";
+}
+.flaticon-mudra:before {
+    content: "\f11d";
+}
+.flaticon-antibiotic:before {
+    content: "\f11e";
+}
+.flaticon-yoga-pose:before {
+    content: "\f11f";
+}
+.flaticon-yoga-pose-1:before {
+    content: "\f120";
+}
+.flaticon-yoga-pose-2:before {
+    content: "\f121";
+}
+.flaticon-yoga-pose-3:before {
+    content: "\f122";
+}
+.flaticon-yoga-pose-4:before {
+    content: "\f123";
+}
+.flaticon-yoga-pose-5:before {
+    content: "\f124";
+}
+.flaticon-yoga-pose-6:before {
+    content: "\f125";
+}
+.flaticon-shiva:before {
+    content: "\f126";
+}
+.flaticon-ganesha-1:before {
+    content: "\f127";
+}
+.flaticon-reiki-1:before {
+    content: "\f128";
+}
+.flaticon-yoga-pose-7:before {
+    content: "\f129";
+}
+.flaticon-yoga-pose-8:before {
+    content: "\f12a";
+}
+.flaticon-yoga-pose-9:before {
+    content: "\f12b";
+}
+.flaticon-yoga-pose-10:before {
+    content: "\f12c";
+}
+.flaticon-yoga-pose-11:before {
+    content: "\f12d";
+}
+.flaticon-yoga-pose-12:before {
+    content: "\f12e";
+}
+.flaticon-yoga-pose-13:before {
+    content: "\f12f";
+}
+.flaticon-yoga-pose-14:before {
+    content: "\f130";
+}
+.flaticon-yoga-pose-15:before {
+    content: "\f131";
+}
+.flaticon-yoga-pose-16:before {
+    content: "\f132";
+}
+.flaticon-reiki-2:before {
+    content: "\f133";
+}
+.flaticon-meditation:before {
+    content: "\f134";
+}
+.flaticon-user:before {
+    content: "\f135";
+}
+.flaticon-reiki-3:before {
+    content: "\f136";
+}
+.flaticon-reiki-4:before {
+    content: "\f137";
+}
+.flaticon-calendar:before {
+    content: "\f138";
+}
+.flaticon-bath-towel:before {
+    content: "\f139";
+}
+.flaticon-cosmetics:before {
+    content: "\f13a";
+}
+.flaticon-healing-1:before {
+    content: "\f13b";
+}
+.flaticon-reflexology:before {
+    content: "\f13c";
+}
+.flaticon-massager:before {
+    content: "\f13d";
+}
+.flaticon-buddhist:before {
+    content: "\f13e";
+}
+.flaticon-carpet:before {
+    content: "\f13f";
+}
+.flaticon-bhagavad-gita:before {
+    content: "\f140";
+}
+.flaticon-location-pin:before {
+    content: "\f141";
+}
+.flaticon-gem:before {
+    content: "\f142";
+}
+.flaticon-email:before {
+    content: "\f143";
+}
+.flaticon-temple-1:before {
+    content: "\f144";
+}
+.flaticon-yagna:before {
+    content: "\f145";
+}
+.flaticon-up-right-arrow:before {
+    content: "\f146";
+}
+.flaticon-mandala:before {
+    content: "\f147";
+}
+.flaticon-lotus-flower:before {
+    content: "\f148";
+}
+.flaticon-cross:before {
+    content: "\f149";
+}
+.flaticon-reiki-5:before {
+    content: "\f14a";
+}
+.flaticon-reiki-6:before {
+    content: "\f14b";
+}
+.flaticon-prayer:before {
+    content: "\f14c";
+}
+.flaticon-massage-1:before {
+    content: "\f14d";
+}
+.flaticon-fingers:before {
+    content: "\f14e";
+}
+.flaticon-foot-massage:before {
+    content: "\f14f";
+}
+.flaticon-buddhist-1:before {
+    content: "\f150";
+}
+.flaticon-surya:before {
+    content: "\f151";
+}
+.flaticon-eye:before {
+    content: "\f152";
+}
+.flaticon-pongal:before {
+    content: "\f153";
+}
+.flaticon-wat-phra-kaew:before {
+    content: "\f154";
+}
+.flaticon-folder:before {
+    content: "\f155";
+}
+.flaticon-vishnu:before {
+    content: "\f156";
+}
+.flaticon-pooja:before {
+    content: "\f157";
+}
+.flaticon-regeneration:before {
+    content: "\f158";
+}
+.flaticon-temple-2:before {
+    content: "\f159";
+}
+.flaticon-lingam:before {
+    content: "\f15a";
+}
+.flaticon-chakra:before {
+    content: "\f15b";
+}
+.flaticon-chakra-1:before {
+    content: "\f15c";
+}
+.flaticon-pilates:before {
+    content: "\f15d";
+}
+.flaticon-pilates-1:before {
+    content: "\f15e";
+}
+.flaticon-meditate:before {
+    content: "\f15f";
+}
+.flaticon-check-mark-1:before {
+    content: "\f160";
+}
+.flaticon-speech-therapy:before {
+    content: "\f161";
+}
+.flaticon-restitution:before {
+    content: "\f162";
+}
+.flaticon-reiki-7:before {
+    content: "\f163";
+}
+.flaticon-therapy:before {
+    content: "\f164";
+}
+.flaticon-om:before {
+    content: "\f165";
+}
+.flaticon-heal:before {
+    content: "\f166";
+}
+.flaticon-massage-2:before {
+    content: "\f167";
+}
+.flaticon-reiki-8:before {
+    content: "\f168";
+}
+.flaticon-incense:before {
+    content: "\f169";
+}
+.flaticon-yoga-1:before {
+    content: "\f16a";
+}
+.flaticon-lotus:before {
+    content: "\f16b";
+}
+.flaticon-wound:before {
+    content: "\f16c";
+}
+.flaticon-injury:before {
+    content: "\f16d";
+}
+.flaticon-om-1:before {
+    content: "\f16e";
+}
+.flaticon-meditation-1:before {
+    content: "\f16f";
+}
+.flaticon-flower:before {
+    content: "\f170";
+}
+.flaticon-meditation-2:before {
+    content: "\f171";
+}
+.flaticon-mental-disorder:before {
+    content: "\f172";
+}
+.flaticon-facial-massage:before {
+    content: "\f173";
+}
+.flaticon-downloads:before {
+    content: "\f174";
+}
+.flaticon-psychology:before {
+    content: "\f175";
+}
+.flaticon-reiki-symbols:before {
+    content: "\f176";
+}
+.flaticon-right-up:before {
+    content: "\f177";
+}
+.flaticon-meditation-3:before {
+    content: "\f178";
+}
+.flaticon-anahata:before {
+    content: "\f179";
+}
+.flaticon-alternative-medicine:before {
+    content: "\f17a";
+}
+.flaticon-reiki-9:before {
+    content: "\f17b";
+}
+.flaticon-therapy-1:before {
+    content: "\f17c";
+}
+.flaticon-chiropractic:before {
+    content: "\f17d";
+}
+.flaticon-vel:before {
+    content: "\f17e";
+}
+.flaticon-mandala-1:before {
+    content: "\f17f";
+}
+.flaticon-pooja-1:before {
+    content: "\f180";
+}
+.flaticon-meditate-1:before {
+    content: "\f181";
+}
+.flaticon-radiation:before {
+    content: "\f182";
+}
+.flaticon-yoga-2:before {
+    content: "\f183";
+}
+.flaticon-yoga-3:before {
+    content: "\f184";
+}
+.flaticon-yoga-4:before {
+    content: "\f185";
+}
+.flaticon-yoga-5:before {
+    content: "\f186";
+}
+.flaticon-yoga-6:before {
+    content: "\f187";
+}
+.flaticon-arrow:before {
+    content: "\f188";
+}
+.flaticon-lotus-1:before {
+    content: "\f189";
+}
+.flaticon-right:before {
+    content: "\f18a";
+}
+.flaticon-left:before {
+    content: "\f18b";
+}
+.flaticon-chakra-2:before {
+    content: "\f18c";
+}
+.flaticon-yoga-7:before {
+    content: "\f18d";
+}
+.flaticon-download:before {
+    content: "\f18e";
+}
+.flaticon-relaxation:before {
+    content: "\f18f";
+}
+.flaticon-leaves:before {
+    content: "\f190";
+}
+.flaticon-self-love:before {
+    content: "\f191";
+}
+.flaticon-energy:before {
+    content: "\f192";
+}
+.flaticon-gardening:before {
+    content: "\f193";
+}
+.flaticon-right-1:before {
+    content: "\f194";
+}
+.flaticon-left-1:before {
+    content: "\f195";
+}
+.flaticon-yoga-8:before {
+    content: "\f196";
+}
+.flaticon-offering:before {
+    content: "\f197";
+}
+.flaticon-healthy:before {
+    content: "\f198";
+}
+.flaticon-sound:before {
+    content: "\f199";
+}
+.flaticon-yoga-9:before {
+    content: "\f19a";
+}
+.flaticon-ritual:before {
+    content: "\f19b";
+}
+.flaticon-hinduism:before {
+    content: "\f19c";
+}
+.flaticon-meditation-4:before {
+    content: "\f19d";
+}
+.flaticon-reiki-10:before {
+    content: "\f19e";
+}
+.flaticon-healing-2:before {
+    content: "\f19f";
+}
+.flaticon-meditation-app:before {
+    content: "\f1a0";
+}
+.flaticon-karma:before {
+    content: "\f1a1";
+}
+.flaticon-envelope:before {
+    content: "\f1a2";
+}
+.flaticon-healing-3:before {
+    content: "\f1a3";
+}
+.flaticon-lotus-2:before {
+    content: "\f1a4";
+}
+.flaticon-yoga-10:before {
+    content: "\f1a5";
+}
+.flaticon-yoga-11:before {
+    content: "\f1a6";
+}
+.flaticon-yoga-12:before {
+    content: "\f1a7";
+}
+.flaticon-healthcare:before {
+    content: "\f1a8";
+}
+.flaticon-alternative-medicine-1:before {
+    content: "\f1a9";
+}
+.flaticon-exercise:before {
+    content: "\f1aa";
+}
+.flaticon-yang:before {
+    content: "\f1ab";
+}
+.flaticon-wellness:before {
+    content: "\f1ac";
+}
+.flaticon-medicine:before {
+    content: "\f1ad";
+}
+.flaticon-face:before {
+    content: "\f1ae";
+}
+.flaticon-affirmations:before {
+    content: "\f1af";
+}
+.flaticon-treatment-plan:before {
+    content: "\f1b0";
+}
+.flaticon-healing-4:before {
+    content: "\f1b1";
+}
+.flaticon-occupational-therapy:before {
+    content: "\f1b2";
+}
+.flaticon-healing-heart:before {
+    content: "\f1b3";
+}
+.flaticon-psychiatry:before {
+    content: "\f1b4";
+}
+.flaticon-buddha:before {
+    content: "\f1b5";
+}
+.flaticon-meditation-5:before {
+    content: "\f1b6";
+}
+.flaticon-mindfulness:before {
+    content: "\f1b7";
+}
+.flaticon-holistic-health:before {
+    content: "\f1b8";
+}
+.flaticon-body-weight-scale:before {
+    content: "\f1b9";
+}
+.flaticon-spiritual-wellness:before {
+    content: "\f1ba";
+}
+.flaticon-spiritual-wellness-1:before {
+    content: "\f1bb";
+}
+.flaticon-yoga-app:before {
+    content: "\f1bc";
+}
+.flaticon-third-eye:before {
+    content: "\f1bd";
+}
+.flaticon-meditation-6:before {
+    content: "\f1be";
+}
+
